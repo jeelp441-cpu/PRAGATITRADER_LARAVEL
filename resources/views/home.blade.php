@@ -19,7 +19,7 @@ body{
 }
 @keyframes fadePage{from{opacity:0}to{opacity:1}}
 
-/* NAV */
+
 .top-nav{
     background:rgba(255,255,255,.9);
     backdrop-filter:blur(12px);
@@ -27,7 +27,7 @@ body{
 }
 .brand{font-size:24px;font-weight:900;letter-spacing:2px}
 
-/* HERO */
+
 .hero-card{
     background:white;
     border-radius:30px;
@@ -40,7 +40,7 @@ body{
     to{opacity:1;transform:translateY(0) scale(1)}
 }
 
-/* BUTTONS */
+
 .btn-soft{
     background:var(--green);
     color:white;
